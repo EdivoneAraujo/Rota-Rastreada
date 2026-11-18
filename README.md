@@ -99,7 +99,7 @@ rota-rastreada/
 
 ### Painel Analítico de Gestão (Web)
 <p align="center">
-  <img src="doc/imagens/Dashboard.jpg" alt="Dashboard Analítico de Gestão" width="90%">
+  <img src="doc/imagens/Dashboard.png" alt="Dashboard Analítico de Gestão" width="90%">
 </p>
 
 ### Aplicativo do Cidadão (Mobile / PWA)
