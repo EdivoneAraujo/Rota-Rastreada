@@ -97,13 +97,13 @@ rota-rastreada/
 
 ### Painel Analítico de Gestão (Web)
 <p align="center">
-  <img src="docs/imagens/Dashboard.jpg" alt="Dashboard Analítico de Gestão" width="90%">
+  <img src="doc/imagens/Dashboard.jpg" alt="Dashboard Analítico de Gestão" width="90%">
 </p>
 
 ### Aplicativo do Cidadão (Mobile / PWA)
 | Rastreamento em Tempo Real | Reporte de Descarte Irregular |
 | :---: | :---: |
-| <img src="doc/imagens/Tela_cidadao.png" alt="Tela de Rastreamento do Cidadão" width="280"> | <img src="docs/images/Denuncia.png" alt="Tela de Reporte de Descarte Irregular" width="280"> |
+| <img src="doc/imagens/Tela_cidadao.png" alt="Tela de Rastreamento do Cidadão" width="280"> | <img src="doc/images/Denuncia.png" alt="Tela de Reporte de Descarte Irregular" width="280"> |
 
 ---
 
