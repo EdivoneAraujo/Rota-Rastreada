@@ -1,6 +1,6 @@
 <h1 align="center">♻️ Rota Rastreada (RastrOlinda)</h1>
 <p align="center">
-  <img src="docs/imagens/Rota.png" alt="Banner RastrOlinda - Coleta Inteligente e Descarte Consciente" width="100%">
+  <img src="doc/imagens/Rota.png" alt="Banner RastrOlinda - Coleta Inteligente e Descarte Consciente" width="100%">
 </p>
 <h3 align="center">✨ Feito por <b>Edivone Araújo</b> e <b>Vanessa Taurino</b> ✨</h3>
 <p align="center"><i>“Transformando lógica em diversão!”</i></p>
@@ -47,7 +47,7 @@ O projeto baseia-se em **10 Requisitos Funcionais (RF)** e **6 Requisitos Não F
 
 ## 🏗️ Visão Geral da Arquitetura
 <p align="center">
-  <img src="docs/imagens/Arquitetura.png" alt="Arquitetura da Plataforma RastrOlinda" width="100%">
+  <img src="doc/imagens/Arquitetura.png" alt="Arquitetura da Plataforma RastrOlinda" width="100%">
 </p>
 A arquitetura foi projetada em camadas desacopladas para garantir escalabilidade e resiliência em áreas com instabilidade de sinal móvel:
 
@@ -103,7 +103,7 @@ rota-rastreada/
 ### Aplicativo do Cidadão (Mobile / PWA)
 | Rastreamento em Tempo Real | Reporte de Descarte Irregular |
 | :---: | :---: |
-| <img src="docs/imagens/Ecrã Cidadão.png" alt="Tela de Rastreamento do Cidadão" width="280"> | <img src="docs/images/tela-denuncia.png" alt="Tela de Reporte de Descarte Irregular" width="280"> |
+| <img src="doc/imagens/Ecrã Cidadão.png" alt="Tela de Rastreamento do Cidadão" width="280"> | <img src="docs/images/tela-denuncia.png" alt="Tela de Reporte de Descarte Irregular" width="280"> |
 
 ---
 
