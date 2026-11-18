@@ -101,9 +101,14 @@ rota-rastreada/
 </p>
 
 ### Aplicativo do Cidadão (Mobile / PWA)
+
+<div align="center">
+
 | Rastreamento em Tempo Real | Reporte de Descarte Irregular |
 | :---: | :---: |
-| <img src="doc/imagens/Tela_cidadao.png" alt="Tela de Rastreamento do Cidadão" width="280"> | <img src="doc/images/Denuncia.png" alt="Tela de Reporte de Descarte Irregular" width="280"> |
+| <img src="doc/imagens/Tela_cidadao.png" alt="Tela de Rastreamento do Cidadão" width="230"> | <img src="doc/imagens/Denuncia.png" alt="Tela de Reporte de Descarte Irregular" width="265"> |
+
+</div>
 
 ---
 
