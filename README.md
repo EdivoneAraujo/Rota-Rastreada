@@ -3,7 +3,9 @@
   <img src="doc/imagens/Rota.png" alt="Banner RastrOlinda - Coleta Inteligente e Descarte Consciente" width="100%">
 </p>
 <h3 align="center">✨ Feito por <b>Edivone Araújo</b> e <b>Vanessa Taurino</b> ✨</h3>
-<p align="center"><i>“Transformando lógica em diversão!”</i></p>
+<p align="center">
+  <i><a href="https://desafios.pe.gov.br/challenge?url=rota-rastreada-olinda-coleta-inteligente-e-descarte-consciente">Desafio Rota Rastreada - Desafios.GOV PE</a></i>
+</p>
 
 > **Status do Projeto:** 🚧 Em fase de planejamento, especificação de requisitos e modelagem de arquitetura (0% código implementado).
 
