@@ -1,6 +1,6 @@
 <h1 align="center">♻️ Rota Rastreada (RastrOlinda)</h1>
 <p align="center">
-  <img src="doc/imagens/Rota.png" alt="Banner RastrOlinda - Coleta Inteligente e Descarte Consciente" width="100%">
+  <img src="doc/imagens/Rota.png" alt="Banner RastrOlinda - Coleta Inteligente e Descarte Consciente" width="95%">
 </p>
 <h3 align="center">✨ Feito por <b>Edivone Araújo</b> e <b>Vanessa Taurino</b> ✨</h3>
 <p align="center">
@@ -49,7 +49,7 @@ O projeto baseia-se em **10 Requisitos Funcionais (RF)** e **6 Requisitos Não F
 
 ## 🏗️ Visão Geral da Arquitetura
 <p align="center">
-  <img src="doc/imagens/Arquitetura.png" alt="Arquitetura da Plataforma RastrOlinda" width="100%">
+  <img src="doc/imagens/Arquitetura.png" alt="Arquitetura da Plataforma RastrOlinda" width="80%">
 </p>
 A arquitetura foi projetada em camadas desacopladas para garantir escalabilidade e resiliência em áreas com instabilidade de sinal móvel:
 
@@ -99,7 +99,7 @@ rota-rastreada/
 
 ### Painel Analítico de Gestão (Web)
 <p align="center">
-  <img src="doc/imagens/Dashboard.png" alt="Dashboard Analítico de Gestão" width="90%">
+  <img src="doc/imagens/Dashboard.png" alt="Dashboard Analítico de Gestão" width="80%">
 </p>
 
 ### Aplicativo do Cidadão (Mobile / PWA)
@@ -116,7 +116,7 @@ rota-rastreada/
 
 ## 📄 Licença
 
-Este projeto está em desenvolvimento e será distribuído sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
+Este projeto está em desenvolvimento e será distribuído sob a licença MIT. 
 
 ---
 ## 👨‍💻 Autoras
@@ -140,9 +140,3 @@ Edivone Araújo e Vanessa Taurino
 </p>
 
 ---
-🏁 Licença
-Este projeto é licenciado sob a MIT License.
-Sinta-se livre para estudar!
-
----
-
